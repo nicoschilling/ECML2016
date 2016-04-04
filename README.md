@@ -10,7 +10,7 @@ java -jar runSMBO.jar -f data/svm/ -dataset A9A -tries 10 -iter 1 -s pogpe
 ```
 
 ##Meta-Data
-The two meta-data sets used in our experiments are available in the folder "data". More information is available on our project website here](http://www.hylap.org/). 
+The two meta-data sets used in our experiments are available in the folder "data". More information is available on our project website [here](http://www.hylap.org/). 
 
 ##Dependencies
 Our code makes use of [Apache Commons Math](https://commons.apache.org/proper/commons-math/). The library is provided in the folder "lib".
